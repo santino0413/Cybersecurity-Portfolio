@@ -1,4 +1,4 @@
-### CYBERSECURITY
+### CYBERSECURITY (B.S), University of North Georgia
 
 ### EDUCATION:
 University of North Georgia — Bachelor of Science, Cybersecurity
@@ -36,7 +36,7 @@ Spoken Languages – English, Conversational Italian
 
 ### PROGRAMMING SKILLS:
 Comfortable with Python
-Scripting Skills with Python
+Programming Skills with Java
 Familiar with C++
 Practiced in JavaScript
 Practiced in HTML & CSS
