@@ -1,89 +1,138 @@
-### CYBERSECURITY (B.S), University of North Georgia; Actively pursuing a minor in Computer Science
-### TS/SCI Cleared
+# SANTINO D. NAVAROLI
 
-### EDUCATION:
-Pursuing Bachelors of Science, Cybersecurity with Computer Science Minor
-University of North Georgia, Dahlonega, GA 30533
-GPA – 3.96, Expected Graduation – May 2026
+6 Lakeshore Ct, McDonough, GA 30252  
+(816) 738-6293 | santino.navaroli@gmail.com  
+[LinkedIn](#) | [GitHub Portfolio](#)
 
-Cyber Leadership Development Program (CLDP) scholar
-A program designed to cultivate technical and leadership skills in individuals pursuing careers in the Cybersecurity field
+---
 
-### CYBERSECURITY CHALLENGES & COMPETITIONS:
-NSA Codebreaker Challenge 2023 / Task 3                                              September 28th, 2023 - January 11th, 2024
-NSA Codebreaker Challenge 2024 / Task 3                                              September 16th, 2024 - January 17th, 2025
-National Cyber League (NCL) / Individual Game                                                      April 5th - April 7th, 2024
-- Individually placed in the top 19% of competitors nationally
-National Cyber League (NCL) / Team Game                                                          April 19th - April 21st, 2024
-- Competing Team placed in the top 7% of competitors nationally
-DoE Cyberforce Competition                                                                           November 8th - 10th, 2024
-- The HackHawks Blue Team had the 7th highest “red score” out of 100 teams                                                                          
-Southeast Collegiate Cyber Defense Competition Qualifier (SECCDC)                                           February 8th, 2025
-- The HackHawks Blue Team placed 4th place out of 40 teams
-Southeast Collegiate Cyber Defense Competition Regional (SECCDC)                                 March 22nd - March 24th, 2025
-- The HackHawks Blue Team placed 5th place out of 10 teams
+## CYBER QUALIFICATIONS
+Cybersecurity student at the University of North Georgia pursuing a Bachelor's degree with a minor in Computer Science. Gaining hands-on experience through collegiate cybersecurity competitions that emulate real-world threat scenarios. Passionate about protecting critical infrastructure and contributing to national cybersecurity efforts.
 
+Actively seeking internship opportunities within federal agencies to apply technical knowledge, enhance real-world skills, and support missions related to cyber defense, risk mitigation, and incident response.
 
-### EXTRACURRICULAR ACTIVITIES:
-UNG CyberHawks / HackHawks Blue Team                                                                     Summer 2024 - Present
-- Member of the UNG Cyberhawks Blue Team, actively preparing for Cyber Security competitions with the team
-UNG Robotics / President, Project Manager                                                                Spring 2023 - Present
-- Leads club meetings and facilitates Robotics projects in the UNG Robotics Club
-UNG Chess Club / Officer                                                                               Spring 2023 - Fall 2024
-- Coordinated with leadership personnel and organized Chess Club Tournaments
+---
 
-### EXPERIENCE:
-North Georgia Astronomical Observatory (NGAO) - Telescope Operator                                      January 2024 - Present
-Assists and grades Astronomy students at the University of North Georgia with student labs
-Conditions and operates the CDK-600 and CDK-700 telescopes to ensure functionality and safe performance
-Leads public night tours and answers questions from the public regarding telescopes and the NGAO facility
+## TECHNICAL SKILLS
 
-MARFORCYBER Apprenticeship Program (MAPs) - Intern                                               June 30th - August 15th, 2025
-Maintained an active TS/SCI security clearance from the MAPs internship
+### Programming Skills
+- Python (Experienced)
+- Java (Familiar)
+- C++ (Familiar)
+- JavaScript (Practiced)
+- HTML & CSS (Practiced)
+- Linux Bash
 
+### Cybersecurity Tools
+- Nmap
+- Hashcat
+- John the Ripper
+- Kali Linux, Fedora Linux
+- PowerShell
+- Ghidra, OllyDbg, EDB, GDB, Cutter
 
-### SKILLS:
-Time Management – Always finishes work on time and by a set due date
-Persistence – Changes objectives accordingly to obtain perfection
-Collaboration – Works well with others in stressful situations
-Spoken Languages – English, Conversational Italian
+### Miscellaneous Skills
+- Project Management
+- Time Management
+- Persistence
+- Collaboration
+- Public Speaking
+- Conversational Italian
 
-### PROGRAMMING SKILLS:
-Experienced with Python
-Familiar with the Java Language
-Familiar with  the C++ Language
-Practiced with JavaScript
-Practiced with HTML & CSS
-Linux Bash Language
+---
 
-### CYBERSECURITY TOOL SKILLS:
-Network Scanning with Nmap
-Password Cracking with HashCat
-Password Cracking with John
-Kali Linux, Fedora Linux
-Powershell
-Ghidra, OLLYDBG, EDB, GDB, Cutter
+## EDUCATION
 
-### MISCELLANEOUS SKILLS:
-Project Management
-Time Management
-Persistence
-Collaboration
-Public Speaking
-Conversational Italian
+**University of North Georgia** — Dahlonega, GA  
+Bachelor of Science in Cybersecurity  
+Minor: Computer Science  
+GPA: 3.97  
+Expected Graduation: May 2026  
 
-### RELATED COURSEWORK:
-Computer Science I
-Computer Science II
-Script Programming
-Web Programming
-Applied Cybersecurity
-Information Security
-Computer Security
-Database Security
-Reverse Engineering
-Data Networks
-Linux Operating System
-Management of Information Security
-Cloud Computing Security
-Computer Forensics
+**Ola High School** — McDonough, GA  
+High School Diploma  
+GPA: 4.10  
+Graduated: May 2022  
+
+---
+
+## COURSEWORK
+Computer Science I, Computer Science II, Script Programming, Web Programming, Applied Cybersecurity, Information Security, Computer Security, Database Security, Reverse Engineering, Data Networks, Linux Operating System, Management of Information Security, Cloud Computing Security, Computer Forensics, Operating Systems & File Organization, Computer Organization & Architecture, Network Security, Cyber Capstone
+
+---
+
+## ACADEMIC SCHOLARSHIPS
+
+**DoD Cyber Leader Development Program (CLDP) Scholar**  
+A competitive program designed to cultivate technical and leadership skills in cybersecurity.
+
+**DoD Cyber Service Academy (CSA) Scholar**  
+Merit-based scholarship supporting cybersecurity education in exchange for DoD service.
+
+---
+
+## EXPERIENCE
+
+**North Georgia Astronomical Observatory (NGAO)** – Telescope Operator (Part-Time)  
+*January 2024 – Present*  
+- Assist and grade Astronomy students in lab environments  
+- Operate CDK-600 and CDK-700 telescopes  
+- Lead public tours and educational sessions  
+
+**MARFORCYBER Apprenticeship Program (MAPs)** – Intern (Full-Time)  
+*June 30 – August 15, 2025*  
+- Maintained active TS/SCI clearance  
+- Additional details pending pre-publication approval  
+
+---
+
+## KEY PROJECTS & COMPETITIONS
+
+### NSA Codebreaker Challenge
+- 2023 (Task 3)
+- 2024 (Task 3)
+- 2025 (Task 5)
+
+### National Cyber League (NCL) – Individual
+- Platinum (63rd percentile) – May 2024  
+- Platinum (65th percentile) – Nov 2024  
+- Gold (44th percentile) – May 2025  
+- Platinum (75th percentile) – Nov 2025  
+
+### National Cyber League (NCL) – Team
+- Platinum – 65th percentile (May 2024)  
+- Diamond – 91st percentile (Nov 2024)  
+- Platinum – 65th percentile (May 2025)  
+- Diamond – 100th percentile (Nov 2025)  
+
+### Other Competitions
+- **DoE Cyberforce (2024)** – 7th highest red score out of 100 teams  
+- **SECCDC Qualifier (2025)** – 4th / 40 teams  
+- **SECCDC Regional (2025)** – 5th / 10 teams  
+
+---
+
+## CERTIFICATIONS & CLEARANCE
+
+- CompTIA Security+ (SY0-701) — October 2025  
+- Top Secret / SCI Clearance — June 2025  
+
+---
+
+## ACTIVITIES & HONORS
+
+**UNG CyberHawks – HackHawks Blue Team**  
+*Summer 2024 – Present*  
+- Defensive cybersecurity operations in simulated enterprise environments  
+- Threat analysis, system hardening, and team-based incident response  
+
+**UNG Robotics – President / Project Manager**  
+*Spring 2023 – Present*  
+- Lead robotics projects (VEXU, Lego Mindstorms)  
+- Mentor members in C++ and system design  
+- Manage competitions and development cycles  
+
+**UNG Chess Club – Officer**  
+*Spring 2023 – Fall 2024*  
+- Organized tournaments and club events  
+- Promoted student engagement and participation  
