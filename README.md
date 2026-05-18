@@ -7,29 +7,44 @@
 ---
 
 ## CYBER QUALIFICATIONS
-Cybersecurity student at the University of North Georgia pursuing a Bachelor's degree with a minor in Computer Science. Gaining hands-on experience through collegiate cybersecurity competitions that emulate real-world threat scenarios. Passionate about protecting critical infrastructure and contributing to national cybersecurity efforts.
 
-Actively seeking internship opportunities within federal agencies to apply technical knowledge, enhance real-world skills, and support missions related to cyber defense, risk mitigation, and incident response.
+Cybersecurity graduate from the University of North Georgia with a Bachelor of Science in Cybersecurity and a minor in Computer Science. Active TS/SCI security clearance holder with hands-on experience in cyber defense, incident response, malware analysis, vulnerability assessment, and security operations through competitive cybersecurity programs and Department of Defense initiatives.
+
+CompTIA Security+ certified and currently pursuing the GIAC Certified Incident Handler (GCIH) certification with a specialization focus in Incident Response and Cyber Defense aligned with DCWF 531 Cyber Defense Incident Responder functions.
+
+Recognized as a recipient of the highly competitive DoD Cyber Service Academy (CSA) Scholarship and DoD Cyber Leader Development Program (CLDP) Scholarship. Experienced in national cyber competitions including NSA Codebreaker, National Cyber League, CyberForce, and SECCDC.
 
 ---
 
 ## TECHNICAL SKILLS
 
 ### Programming Skills
-- Python (Experienced)
-- Java (Familiar)
-- C++ (Familiar)
-- JavaScript (Practiced)
-- HTML & CSS (Practiced)
-- Linux Bash
+- Python
+- Bash
+- PowerShell
+- Java
+- C / C++
+- JavaScript
+- HTML & CSS
 
-### Cybersecurity Tools
+### Cybersecurity Skills & Tools
+- Incident Response
+- Network Security Monitoring
+- Vulnerability Assessment
+- Malware Analysis
+- Digital Forensics Fundamentals
 - Nmap
 - Hashcat
 - John the Ripper
-- Kali Linux, Fedora Linux
-- PowerShell
-- Ghidra, OllyDbg, EDB, GDB, Cutter
+- Ghidra
+- GDB
+- Cutter
+- OLLYDBG
+
+### Platforms
+- Kali Linux
+- Fedora Linux
+- Linux Administration
 
 ### Miscellaneous Skills
 - Project Management
@@ -46,93 +61,107 @@ Actively seeking internship opportunities within federal agencies to apply techn
 **University of North Georgia** — Dahlonega, GA  
 Bachelor of Science in Cybersecurity  
 Minor: Computer Science  
-GPA: 3.97  
-Expected Graduation: May 2026  
+GPA: 3.975  
+Graduated Summa Cum Laude: May 2026  
 
 **Ola High School** — McDonough, GA  
 High School Diploma  
 GPA: 4.10  
-Graduated: May 2022  
+Graduated Summa Cum Laude: May 2022  
 
 ---
 
 ## COURSEWORK
+
 Computer Science I, Computer Science II, Script Programming, Web Programming, Applied Cybersecurity, Information Security, Computer Security, Database Security, Reverse Engineering, Data Networks, Linux Operating System, Management of Information Security, Cloud Computing Security, Computer Forensics, Operating Systems & File Organization, Computer Organization & Architecture, Network Security, Cyber Capstone
 
 ---
 
 ## ACADEMIC SCHOLARSHIPS
 
-**DoD Cyber Leader Development Program (CLDP) Scholar**  
-A competitive program designed to cultivate technical and leadership skills in cybersecurity.
+### DoD Cyber Service Academy (CSA) Scholar
+Highly competitive merit-based scholarship supporting cybersecurity education in exchange for service in the Department of Defense cyber workforce. One of approximately 75 recipients nationwide.
 
-**DoD Cyber Service Academy (CSA) Scholar**  
-Merit-based scholarship supporting cybersecurity education in exchange for DoD service.
+### DoD Cyber Leader Development Program (CLDP) Scholar
+Competitive scholarship program designed to develop technical and leadership capabilities for students pursuing careers in cybersecurity.
 
 ---
 
 ## EXPERIENCE
 
-**North Georgia Astronomical Observatory (NGAO)** – Telescope Operator (Part-Time)  
-*January 2024 – Present*  
-- Assist and grade Astronomy students in lab environments  
-- Operate CDK-600 and CDK-700 telescopes  
-- Lead public tours and educational sessions  
+### MARFORCYBER Apprenticeship Program (MAPs) — MAP Intern (Full-Time)
+*June 30 – August 15, 2025*
+- Maintained an active TS/SCI security clearance throughout the internship
+- Supported defensive cyber operations activities within a DoD enterprise environment
+- Assisted with network monitoring, security analysis, and cybersecurity operational workflows
+- Contributed to mission-supporting cyber defense activities under classified operational standards
 
-**MARFORCYBER Apprenticeship Program (MAPs)** – Intern (Full-Time)  
-*June 30 – August 15, 2025*  
-- Maintained active TS/SCI clearance  
-- Additional details pending pre-publication approval  
+### North Georgia Astronomical Observatory (NGAO) — Telescope Operator (Part-Time)
+*January 2024 – May 2026*
+- Assisted and graded Astronomy students during laboratory exercises
+- Operated and maintained CDK-600 and CDK-700 telescopes
+- Led public educational tours and outreach events
+- Ensured safe telescope operation and observatory functionality
 
 ---
 
 ## KEY PROJECTS & COMPETITIONS
 
+### NSA National Cyber Exercise (NCX)
+*April 7 – 10, 2026*
+- Completed malware development challenges involving reverse shell creation and exploitation techniques
+- Participated in Cyber Combat Exercise (CCX) involving attack and defense operations while maintaining 100% system availability
+
 ### NSA Codebreaker Challenge
-- 2023 (Task 3)
-- 2024 (Task 3)
-- 2025 (Task 5)
+- 2023 — Task 3
+- 2024 — Task 3
+- 2025 — Task 5
 
-### National Cyber League (NCL) – Individual
-- Platinum (63rd percentile) – May 2024  
-- Platinum (65th percentile) – Nov 2024  
-- Gold (44th percentile) – May 2025  
-- Platinum (75th percentile) – Nov 2025  
+### National Cyber League (NCL) — Individual Game
+- Platinum — 63rd Percentile (May 2024)
+- Platinum — 65th Percentile (Nov 2024)
+- Gold — 44th Percentile (May 2025)
+- Platinum — 75th Percentile (Nov 2025)
+- Platinum — 76th Percentile (May 2026)
 
-### National Cyber League (NCL) – Team
-- Platinum – 65th percentile (May 2024)  
-- Diamond – 91st percentile (Nov 2024)  
-- Platinum – 65th percentile (May 2025)  
-- Diamond – 100th percentile (Nov 2025)  
+### National Cyber League (NCL) — Team Game
+- Platinum — 65th Percentile (May 2024)
+- Diamond — 91st Percentile (Nov 2024)
+- Platinum — 65th Percentile (May 2025)
+- Diamond — 100th Percentile (Nov 2025)
+- Diamond — 98th Percentile (May 2026)
 
 ### Other Competitions
-- **DoE Cyberforce (2024)** – 7th highest red score out of 100 teams  
-- **SECCDC Qualifier (2025)** – 4th / 40 teams  
-- **SECCDC Regional (2025)** – 5th / 10 teams  
+- **DoE CyberForce Competition (2024)** — 7th highest red score out of 100 teams
+- **SECCDC Qualifier (2025)** — 4th out of 40 teams
+- **SECCDC Regional (2025)** — 5th out of 10 teams
 
 ---
 
 ## CERTIFICATIONS & CLEARANCE
 
-- CompTIA Security+ (SY0-701) — October 2025  
-- Top Secret / SCI Clearance — June 2025  
+- CompTIA Security+ (SY0-701) — October 2025
+- GIAC Certified Incident Handler (GCIH) — In Progress, Expected July 2026
+- Top Secret / Sensitive Compartmentalized Information (TS/SCI) Clearance — Adjudicated June 2025
 
 ---
 
 ## ACTIVITIES & HONORS
 
-**UNG CyberHawks – HackHawks Blue Team**  
-*Summer 2024 – Present*  
-- Defensive cybersecurity operations in simulated enterprise environments  
-- Threat analysis, system hardening, and team-based incident response  
+### UNG CyberHawks — HackHawks Blue Team
+*Summer 2024 – May 2026*
+- Participated in defensive cybersecurity operations within simulated enterprise environments
+- Conducted threat analysis, monitoring, incident response, and system hardening activities
+- Competed in national cybersecurity competitions including NCL, NSA Codebreaker, CyberForce, and CCDC
 
-**UNG Robotics – President / Project Manager**  
-*Spring 2023 – Present*  
-- Lead robotics projects (VEXU, Lego Mindstorms)  
-- Mentor members in C++ and system design  
-- Manage competitions and development cycles  
+### UNG Robotics — President / Project Manager
+*Spring 2023 – May 2026*
+- Led robotics development projects involving VEXU Robotics and Lego Mindstorms
+- Managed project timelines, team coordination, and competition preparation
+- Mentored members in C++ programming and system design concepts
 
-**UNG Chess Club – Officer**  
-*Spring 2023 – Fall 2024*  
-- Organized tournaments and club events  
-- Promoted student engagement and participation  
+### UNG Chess Club — Officer
+*Spring 2023 – Fall 2024*
+- Organized tournaments and club events
+- Assisted with member engagement and club operations
+- Promoted participation in competitive and recreational chess activities
